@@ -13,8 +13,8 @@ Thanks for taking a look at this repository!! <br>
 This repository is the environment of YOLO V4 ported to darknet_ros. <br>
 If you need the Japanese README file, please go [here](./documents/README_ja.md).
 
-@Hyper-Devil:
-1.如果出现：error "OpenCV 4.x+ requires enabled C++11 support"，请降级至opencv3.x
+@Hyper-Devil:                           
+1.如果出现：error "OpenCV 4.x+ requires enabled C++11 support"，请降级至opencv3.x。                           
 2.如果/darknet_ros/detection_image不正常  设置enable_opencv: false。
 
 
